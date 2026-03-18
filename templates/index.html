@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pengügle</title>
+    <!-- Aquí conectamos el CSS que acabas de crear -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="logo-container">
+        <h1>🐧 Pengügle</h1>
+    </div>
+
+    <form class="search-bar" action="/" method="GET">
+        <input type="text" name="q" value="{{ query }}" placeholder="Search about penguins (e.g., emperor, krill, ice...)" required>
+        <button type="submit">Search</button>
+    </form>
+
+    {% if query %}
+        <div class="stats">
+            Total indexed docs: {{ stats.total_docs }} | Vocabulary size: {{ stats.vocab_size }} terms<br>
+            Found {{ results|length }} results in {{ stats.search_time }} seconds.
+        </div>
+
+        {% if results %}
+            {% for result in results %}
+                <div class="result-item">
+                    <h2 class="result-title">{{ result.title }}</h2>
+                    <div class="result-meta">Source: {{ result.source }} | BM25 Score: <span class="score">{{ result.score }}</span></div>
+                    <p>{{ result.text | safe }}</p>
+                </div>
+            {% endfor %}
+        {% else %}
+            <p style="text-align: center;">No penguins found for that query. Try another word! 🧊</p>
+        {% endif %}
+    {% endif %}
+
+</body>
+</html>
