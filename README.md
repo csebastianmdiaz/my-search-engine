@@ -5,10 +5,12 @@
 
 ## Domain and Justification
 **Domain:** Penguins
+
 **Justification:** I chose the penguin domain because I like them.
 
 ## Implemented Enhancement
 **Enhancement:** A - Term Highlighting
+
 **Description:** Highlight matching query terms in the search results.
 
 ## Instructions to Run Locally (Docker)
