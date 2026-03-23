@@ -18,6 +18,7 @@ This project is containerized with Docker to ensure it works perfectly on any ma
 
 1. Clone this repository or download the files.
 2. Open a terminal and navigate to the root folder of the project (`my-search-engine`).
-3. Build the Docker image by running:
-   ```bash
-   docker build -t pengugle-search .
+
+Simply run the following command in your terminal:
+```bash
+docker compose up --build
