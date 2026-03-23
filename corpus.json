@@ -1,22 +1,122 @@
 [
-  { "id": "1", "title": "Emperor Penguin Overview", "source": "Wikipedia", "text": "The Emperor penguin is the tallest and heaviest of all living penguin species and is endemic to Antarctica. The male and female are similar in plumage and size, reaching 100 cm in length and weighing from 22 to 45 kg. Their diet consists primarily of fish, but includes crustaceans, such as krill, and cephalopods, such as squid." },
-  { "id": "2", "title": "King Penguin Characteristics", "source": "National Geographic", "text": "The King penguin is the second largest species of penguin, smaller, but somewhat similar in appearance to the emperor penguin. They breed on the subantarctic islands at the northern reaches of Antarctica, South Georgia, and other temperate islands of the region. King penguins eat small fish, mainly lanternfish, and squid. They can dive to over 300 meters deep." },
-  { "id": "3", "title": "Adélie Penguin Habitat", "source": "WWF", "text": "The Adélie penguin is a species of penguin common along the entire coast of the Antarctic continent, which is its only habitat. They are among the most southerly distributed of all seabirds. They are named after Adélie Land, which in turn was named for the wife of French explorer Jules Dumont d'Urville. They feed mainly on Antarctic krill." },
-  { "id": "4", "title": "Chinstrap Penguin Appearance", "source": "Britannica", "text": "The Chinstrap penguin inhabits a variety of islands and shores in the Southern Pacific and the Antarctic Oceans. Its name stems from the narrow black band under its head, which makes it appear as if it were wearing a black helmet, making it one of the most easily identified types of penguin. Their diet consists mainly of krill and small fish." },
-  { "id": "5", "title": "Gentoo Penguin Speed", "source": "Ocean Conservancy", "text": "The Gentoo penguin is easily recognized by the wide white stripe extending like a bonnet across the top of its head and its bright orange-red bill. They are the fastest underwater swimming penguins, reaching speeds of up to 36 kilometers per hour. They build nests from circular piles of stones and aggressively defend them from other penguins." },
-  { "id": "6", "title": "Macaroni Penguin Crest", "source": "Wikipedia", "text": "The Macaroni penguin is a species of penguin found from the Subantarctic to the Antarctic Peninsula. One of six species of crested penguin, it bears a distinctive yellow crest, and the face and upperparts are black and sharply delineated from the white underparts. They are highly social animals, gathering in massive colonies to breed and molt." },
-  { "id": "7", "title": "Royal Penguin Endemism", "source": "BirdLife International", "text": "The Royal penguin is a species of penguin, which can be found on the sub-Antarctic Macquarie Island and adjacent islands. They are very similar in appearance to the macaroni penguin. They inhabit the waters surrounding Antarctica. Royal penguins are migratory birds, leaving Macquarie Island after the breeding season, though their non-breeding winter distribution is largely unknown to researchers." },
-  { "id": "8", "title": "Fiordland Crested Penguin", "source": "NZ Department of Conservation", "text": "The Fiordland penguin is a crested penguin species endemic to New Zealand. It currently breeds along the south-western coasts of South Island’s Fiordland and Stewart Island. It is a medium-sized penguin with a dark, bluish-grey upper part and a white belly. It features a prominent yellow crest over the eyes. They prefer to nest in dense coastal rainforests." },
-  { "id": "9", "title": "Snares Penguin Distribution", "source": "Wikipedia", "text": "The Snares penguin is a penguin from New Zealand. The species breeds on the Snares Islands, a group of islands off the southern coast of the South Island. This is a medium-small, yellow-crested penguin. It has dark blue-black upperparts and white underparts. The main prey of the Snares penguin consists of krill, supplemented by small fish and cephalopods." },
-  { "id": "10", "title": "Erect-crested Penguin", "source": "Oceanic Society", "text": "The Erect-crested penguin is a penguin endemic to the New Zealand region. It breeds on the Bounty and Antipodes Islands. It has black upperparts, white underparts, and a yellow eye stripe and crest that stands erect. This species is poorly studied, but it is known that their populations have declined significantly over the past few decades due to unknown reasons." },
-  { "id": "11", "title": "Southern Rockhopper Behavior", "source": "National Geographic", "text": "The Southern Rockhopper penguin is a species of penguin known for its distinctive red eyes, orange beak, and the striking yellow crests of feathers that sweep back from its eyes. They are among the smallest of the world's penguins. True to their name, they often navigate their rocky coastal habitats by hopping from boulder to boulder rather than sliding." },
-  { "id": "12", "title": "Northern Rockhopper Penguin", "source": "WWF", "text": "The Northern Rockhopper penguin is a species of crested penguin. It is very similar to the southern rockhopper penguin, but it is generally larger and has a longer crest. They breed in cool temperate climates, including on the Tristan da Cunha and Gough Island. They are highly aggressive and will violently defend their nesting territories from intruders." },
-  { "id": "13", "title": "Little Blue Penguin Size", "source": "Britannica", "text": "The Little penguin, also known as the little blue penguin or fairy penguin, is the smallest species of penguin. It grows to an average of 33 centimeters in height and 43 centimeters in length. They are found on the coastlines of southern Australia and New Zealand. Their blue plumage provides excellent camouflage from predators while swimming in the ocean." },
-  { "id": "14", "title": "White-flippered Penguin", "source": "Wikipedia", "text": "The White-flippered penguin is a small penguin endemic to Canterbury, New Zealand. Some scientists consider it a subspecies of the little penguin, while others consider it a distinct species. It has white margins on its flippers. They nest in burrows, caves, and rock crevices, and they only come ashore under the cover of darkness to avoid predators like seabirds." },
-  { "id": "15", "title": "Magellanic Penguin Migration", "source": "Wildlife Conservation Society", "text": "The Magellanic penguin is a South American penguin, breeding in coastal Patagonia, including Argentina, Chile, and the Falkland Islands. They migrate north as far as Brazil during the winter months. They are medium-sized penguins with a black back and a white abdomen. They are known for their loud, braying calls that sound very much like a donkey." },
-  { "id": "16", "title": "Humboldt Penguin Climate", "source": "Oceana", "text": "The Humboldt penguin is a South American penguin that breeds in coastal Chile and Peru. Its nearest relatives are the Galápagos penguin and the Magellanic penguin. They are named after the cold water current it swims in, which is named after Alexander von Humboldt. They face severe threats from climate change, El Niño events, and accidental capture in fishing nets." },
-  { "id": "17", "title": "Galapagos Penguin Heat", "source": "Galapagos Conservancy", "text": "The Galapagos penguin is a penguin endemic to the Galapagos Islands, Ecuador. It is the only penguin found north of the equator. The cool waters of the Humboldt and Cromwell Currents allow it to survive despite the tropical latitude. To cool off, they pant like dogs and stand with their flippers extended to release heat from their bodies." },
-  { "id": "18", "title": "African Penguin Calls", "source": "San Diego Zoo", "text": "The African penguin is a species of penguin confined to southern African waters. Like all extant penguins, it is flightless, with a streamlined body and wings stiffened and flattened into flippers for a marine habitat. They were formerly known as jackass penguins because of their loud, donkey-like braying, although several related species of South American penguins produce the same sound." },
-  { "id": "19", "title": "Penguin Diet and Hunting", "source": "Marine Biology Journal", "text": "Most penguins feed on krill, fish, and squid, caught while swimming underwater. They spend half of their lives on land and the other half in the ocean. Their spiky tongues and powerful jaws help them grip slippery prey. When hunting, they rely heavily on their excellent underwater vision, which allows them to spot prey even in deep, dark waters." },
-  { "id": "20", "title": "Penguin Predators", "source": "Discovery Channel", "text": "While penguins are agile predators in the water, they are also prey for other marine animals. Leopard seals and killer whales are their primary predators in the ocean. On land or ice, adult penguins have few natural enemies, but eggs and chicks are extremely vulnerable to predatory birds like skuas and giant petrels, which snatch unguarded young from nests." }
+  {
+    "id": "1",
+    "title": "Emperor Penguin",
+    "source": "https://en.wikipedia.org/wiki/Emperor_penguin",
+    "text": "The emperor penguin (Aptenodytes forsteri) is the tallest and heaviest of all living penguin species and is endemic to Antarctica. The male and female are similar in plumage and size, reaching 100 cm (39 in) in length and weighing from 22 to 45 kg (49 to 99 lb). Feathers of the head and back are black and sharply delineated from the white belly, pale-yellow breast and bright-yellow ear patches."
+  },
+  {
+    "id": "2",
+    "title": "King Penguin Facts",
+    "source": "https://www.nationalgeographic.com/animals/facts/king-penguin",
+    "text": "The king penguin is the second largest penguin on Earth. In fact, the bird gets its common name from the belief that it was the largest of all penguin species—a belief that was overturned in 1884 when its close relative the emperor penguin, which can measure nearly a foot taller, was recognized as a separate species."
+  },
+  {
+    "id": "3",
+    "title": "Penguin Species Overview",
+    "source": "https://www.worldwildlife.org/species/penguin/",
+    "text": "Penguins are a family of 17 to 19 species of birds that live primarily in the Southern Hemisphere. They include the tiny blue penguins of Australia and New Zealand, the majestic emperor penguins of Antarctica, and king penguins found on many sub-Antarctic islands, the endangered African penguin, and the Galápagos penguin—the only penguin to be found north of the equator."
+  },
+  {
+    "id": "4",
+    "title": "Penguin Life Cycle",
+    "source": "https://www.britannica.com/animal/penguin",
+    "text": "Many features of the penguin life cycle vary with body size and geographic distribution; the chronology of breeding may also vary within a species in relation to latitude. The majority of species breed only once each year. Certain species, such as the African penguin (Spheniscus demersus), probably other members of this genus, and the blue penguin, breed twice a year. The king penguin breeds twice in three years."
+  },
+  {
+    "id": "5",
+    "title": "Penguin Breeding and Foraging",
+    "source": "https://www.nationalgeographic.com/animals/birds/facts/penguins-1",
+    "text": "Penguins come ashore to lay their eggs and raise their chicks. Most penguins stay with their mate for many years and lay only one or two eggs at a time. Parents take turns keeping their eggs warm, and when they hatch, feeding and protecting the chicks. For a few weeks each year, thousands of baby birds wait together while their parents forage for food."
+  },
+  {
+    "id": "6",
+    "title": "Penguin Physical Characteristics",
+    "source": "https://seaworld.org/animals/all-about/penguin/physical-characteristics/",
+    "text": "Size The emperor penguin is the largest of all living penguins, standing to 1.1 m (3.7 ft.) tall and can weigh more than 41 kg (90 lbs.). The smallest of the penguins is the little penguin, standing just 41 to 45 cm (16 to 18 in.) and weighing about 1 kg (2.2 lbs.)."
+  },
+  {
+    "id": "7",
+    "title": "Penguin Mating Discoveries",
+    "source": "https://www.sciencealert.com/shock-discovery-reveals-penguins-dont-mate-for-life-after-all",
+    "text": "Penguins aren't the paragons of everlasting love that we often paint them out to be. In a megacolony of Little Penguins (Eudyptula minor), researchers in Australia have calculated a 'divorce' rate that is much higher than in humans. While many penguin species are considered socially monogamous, the idea that they choose mates for life and never even bat an eyelash at another is a common misconception."
+  },
+  {
+    "id": "8",
+    "title": "How Many Penguin Species Are There?",
+    "source": "https://www.penguinsinternational.org/penguin-species/?gad_source=1&gad_campaignid=267096863&gbraid=0AAAAADjawWkoqJtrZthu6akeA4YP89BPK&gclid=Cj0KCQjwpv7NBhCzARIsADkIfWzF9CAqczF75yoZkumAPZol3Uxfv3HrROK04tSLjGY1YiK5OqwuFKsaAsBhEALw_wcB",
+    "text": "How many different penguin species are there? Experts, agencies, and scientists recognize 18 distinct species worldwide. Although penguins are generally known for their striking black and white plumage, each species boasts its own unique traits. These birds inhabit various regions of the Southern Hemisphere. Click on any name below to explore the unique features of each species."
+  },
+  {
+    "id": "9",
+    "title": "King Penguin Colony Experience",
+    "source": "https://www.secretatlas.com/handbook/wildlife-and-nature-guides/antarctic/king-penguin",
+    "text": "King Penguin Aptenodytes patagonicus The second-largest penguin species, known for their striking orange ear patches and upright regal stance, looks dressed ready for a formal occasion. They breed in huge numbers on sub-Antarctic islands, and have the longest, most complex breeding cycle of any penguin. A visit to a king penguin colony is like a party to the senses, the cacophony of vocalisations, the sea of penguins waddling purposefully, and the stark smell of guano in the air. This unforgettable wildlife experience will last a lifetime."
+  },
+  {
+    "id": "10",
+    "title": "Evolution of Penguins",
+    "source": "https://www.nhm.ac.uk/discover/news/2022/july/penguins-some-of-slowest-evolving-birds-world.html",
+    "text": "The evolution of penguins has been laid out in unparalleled detail, revealing how they came into being. While the aquatic birds have been shaped by periods of warming and cooling, modern climate change may be too much for them to cope with. Penguins are the slowpokes of bird evolution, which could affect their ability to adapt as their environment rapidly changes."
+  },
+  {
+    "id": "11",
+    "title": "Penguin Fact Sheet",
+    "source": "https://www.pbs.org/wnet/nature/blog/penguin-fact-sheet/",
+    "text": "Size and Weight: Penguins vary in size and weight depending on the species. Their height ranges from 15 inches to 3.5 feet. Their weight ranges from 2 pounds to 88 pounds. Emperor penguins (Aptenodytes forsteri) are the largest species, with an average height of 45 inches tall. Emperor penguins can weigh up to 88 pounds."
+  },
+  {
+    "id": "12",
+    "title": "Where Do Penguins Live?",
+    "source": "https://www.ifaw.org/animals/penguins",
+    "text": "Where do penguins live? Penguins live predominantly in the Southern Hemisphere and are found in South Africa, Chile, Peru, Australia, and New Zealand. However, penguins in the Galapagos Islands do venture above the equator. The most well-known penguin species, including emperor penguins, adélie penguins, chinstrap penguins, and gentoo penguins, live around Antarctica, which is why penguins are commonly thought to live only on the ice."
+  },
+  {
+    "id": "13",
+    "title": "What Do Penguins Eat?",
+    "source": "https://www.aquarium.co.za/news/what-do-penguins-eat",
+    "text": "What do penguins eat? The right fish Most species of penguin are piscivores, meaning their diets consist of fish. For some like the African penguin, an abundance of small, nutrient-rich fish like anchovies or pilchards is vital to help them go through a fasting period - when they starve for weeks while growing new feathers, and for feeding healthy meals to their young."
+  },
+  {
+    "id": "14",
+    "title": "Are Penguins Really Monogamous?",
+    "source": "https://www.livescience.com/are-penguins-really-monogamous",
+    "text": "\"The short answer is no, penguins are not really monogamous,\" said Emma Marks, a behavioral ecologist at the University of Auckland in New Zealand, who studies breeding behavior and mate choice in colonial breeding species — birds that congregate in vast colonies for nesting. \"Colonial breeders such as penguins may be monogamous, in that they have one mate with whom they nest and raise chicks each season,\" Marks told Live Science. \"But that doesn't mean there aren't 'extracurricular activities' going on.\""
+  },
+  {
+    "id": "15",
+    "title": "Extreme Swimmers and Divers",
+    "source": "https://ocean.si.edu/ocean-life/seabirds/penguins",
+    "text": "Extreme Swimmers and Divers Penguins are birds of the ocean, spending up to 75 percent of their lives in the water. Some penguins, like the fiordland and rockhopper, have even been found with barnacles growing on their feathers! Much of what seems odd about penguins is due to the fact that they spend so much time in the water. Swimming is what penguins do best. A penguin’s awkward waddle may seem comical on land but that’s because they are made to swim."
+  },
+  {
+    "id": "16",
+    "title": "Can I Have a Pet Penguin?",
+    "source": "https://www.littlepenguin.co.uk/can-i-have-a-pet-penguin/?srsltid=AfmBOoqevAKlxLQQTBJChC0YYogmDMWcM2qFd2mw1Bg2z736QhWo4fDu",
+    "text": "Can I have a pet Penguin? The cold, hard truth. We understand the irresistible charm of penguins. Their comical waddle, their sleek black and white appearance, and their seemingly playful nature make them incredibly endearing. It’s no wonder many people dream of having one as a pet. However, as much as we’d love to fulfil that dream, the harsh reality is that penguins simply do not make suitable pets."
+  },
+  {
+    "id": "17",
+    "title": "Penguins of the Past",
+    "source": "https://www.penguinsinternational.org/penguins-of-the-past-what-do-we-know-about-them/",
+    "text": "Prehistoric penguins lived in the same places as penguins of today Prehistoric penguins shared the same distribution as their current relatives. They were found in the Southern Hemisphere including Antarctica. Fossil records of extinct penguins have been found in Antarctica, New Zealand, Australia, Argentina, Chile, Peru and South Africa. Places where fossils were found show a relatively high penguin diversity, which possibly peaked at the late Eocene and early Oligocene."
+  },
+  {
+    "id": "18",
+    "title": "Why Penguins Often Perceive Humans",
+    "source": "https://www.aol.com/articles/why-penguins-often-perceive-humans-172455539.html",
+    "text": "Penguins do not react to people the way most wild animals do. When a human appears on an Antarctic shoreline, many penguins do not scatter or hide. They keep walking. Some pause a short distance away and stare, while others move closer, as if inspecting an unfamiliar figure. That calm curiosity has led to the idea that penguins see humans as fellow penguins."
+  },
+  {
+    "id": "19",
+    "title": "Madagascar Penguins Personalities",
+    "source": "https://wfuogb.com/12743/arts-and-culture/analyzing-the-personalities-of-the-madagascar-penguins/",
+    "text": "Analyzing the personalities of the “Madagascar” penguins They’re cute, feathered and determined to to pull off the ultimate heist We have to start with Skipper, commander of the squad, deliverer of incredibly funny one-liners, and one of the craziest in the group. “Skipper” is a term that refers to the master or captain of a ship, a name that certainly fits the penguins’ bold leader."
+  },
+  {
+    "id": "20",
+    "title": "The Life of Grape-kun",
+    "source": "https://medium.com/@mombot/the-life-of-grape-kun-96a57d4a4364",
+    "text": "The Life of Grape-kun On Friday October 13th, Tobu Zoo in Saitama Japan announced via Twitter that “Grape-kun” the Humboldt penguin had passed away. Grape-kun became internationally famous this May when he started to exhibit mating behavior towards a cardboard cutout of “Hululu”, an anthropomorphized Humbolt penguin character from the anime Kemono Friends."
+  }
 ]

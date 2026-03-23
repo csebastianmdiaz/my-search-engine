@@ -13,7 +13,7 @@
     </div>
 
     <form class="search-bar" action="/" method="GET">
-        <input type="text" name="q" value="{{ query }}" placeholder="Search about penguins (e.g., emperor, krill, ice...)" required>
+        <input type="text" name="q" value="{{ query }}" placeholder="Search about penguins (e.g., emperor, size, prehisotric...)" required>
         <button type="submit">Search</button>
     </form>
 
@@ -26,13 +26,19 @@
         {% if results %}
             {% for result in results %}
                 <div class="result-item">
-                    <h2 class="result-title">{{ result.title }}</h2>
-                    <div class="result-meta">Source: {{ result.source }} | BM25 Score: <span class="score">{{ result.score }}</span></div>
+                    <h2 class="result-title">
+                        <a href="{{ result.source }}" target="_blank" style="text-decoration: none; color: #1a0dab;">
+                            {{ result.title }}
+                        </a>
+                    </h2>
+                    
+                    <div class="result-meta">BM25 Score: <span class="score">{{ result.score }}</span></div>
+                    
                     <p>{{ result.text | safe }}</p>
                 </div>
             {% endfor %}
         {% else %}
-            <p style="text-align: center;">No penguins found for that query. Try another word! 🧊</p>
+            <p style="text-align: center;">No penguins found for that query. Try another word!</p>
         {% endif %}
     {% endif %}
 
