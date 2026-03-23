@@ -8,7 +8,7 @@ COPY requirements.txt .
 # Libraries
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Descargamos los paquetes de NLTK que Pengügle necesita para procesar el texto
+# Descargamos los paquetes de NLTK para procesar el texto
 RUN python -m nltk.downloader punkt stopwords
 
 COPY . .
