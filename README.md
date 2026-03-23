@@ -4,8 +4,8 @@
 **César Sebastián Mercado Díaz**
 
 ## Domain and Justification
-**Domain: Penguins**
-**Justification: I chose the penguin domain because i like them.**
+**Domain:** Penguins
+**Justification:** I chose the penguin domain because I like them.
 
 ## Implemented Enhancement
 **Enhancement:** A - Term Highlighting
@@ -18,7 +18,9 @@ This project is containerized with Docker to ensure it works perfectly on any ma
 
 1. Clone this repository or download the files.
 2. Open a terminal and navigate to the root folder of the project (`my-search-engine`).
+3. Simply run the following command in your terminal:
+   ```bash
+   docker compose up --build
 
-Simply run the following command in your terminal:
-```bash
-docker compose up --build
+**Screenshot**
+![alt text](image.png)
